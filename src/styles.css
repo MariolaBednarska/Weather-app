@@ -61,3 +61,7 @@ p {
 .link {
   cursor: pointer;
 }
+
+.link:hover {
+  text-decoration: none;
+}
